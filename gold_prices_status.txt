@@ -4,8 +4,8 @@
   "latest_version":"1.0.1",
   "dialogue": {
     "enabled":false,
-    "title": "Example Title Text",
-    "body": "Example Body Text"
+    "title": "يتوفر تحديث جديد",
+    "body": "يرجى تحديث التطبيق لآخر إصدار حتى تتمكن من إستخدامه"
   }
 }
 ]
