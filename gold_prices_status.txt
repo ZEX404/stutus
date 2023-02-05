@@ -3,7 +3,7 @@
   "maintenance": false,
   "latest_version":"1.0.0",
   "dialogue": {
-    "link":"https://raw.githubusercontent.com/ZEX404/stutus/main/gold_prices_status.txt",
+    "link":"https://zexdev.epizy.com",
     "title": "يتوفر تحديث جديد",
     "body": "يرجى تحديث التطبيق لآخر إصدار حتى تتمكن من إستخدامه"
   }
