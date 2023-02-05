@@ -1,7 +1,7 @@
 [{
   "status": true,
   "maintenance": false,
-  "latest_version":"1.0.1",
+  "latest_version":"1.0.0",
   "dialogue": {
     "link":"https://raw.githubusercontent.com/ZEX404/stutus/main/gold_prices_status.txt",
     "title": "يتوفر تحديث جديد",
