@@ -1,8 +1,8 @@
 [{
   "status": true,
   "maintenance": false,
-  "latest_version":"1.0.3",
-  "build_version":3,
+  "latest_version":"2.0.0",
+  "build_version":5,
   "dialogue": {
     "link":"https://play.google.com/store/apps/details?id=com.zex.gold",
     "title": "يتوفر تحديث جديد",
